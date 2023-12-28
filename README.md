@@ -10,7 +10,7 @@ Hello there! I'm William, a passionate and skilled web designer and developer, s
 - ## 📫 How to reach me
 - 📧 Email: [williamtrinastic@gmail.com]
 - 📞 Phone: (414)-587-4052
-
+- [LinkedIn Profile] https://www.linkedin.com/in/william-trinastic/
 Feel free to reach out for collaborations or just a chat about tech, web development, and community projects!
 
 ---
